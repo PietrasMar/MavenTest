@@ -12,7 +12,7 @@ public class Solution{
             }
         }
 
-        if(counter>10000){
+        if(counter>1000000000){
             return -1;
         }
 
