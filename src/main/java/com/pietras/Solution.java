@@ -1,3 +1,5 @@
+package com.pietras;
+
 public class Solution{
     public int solution(int N){
         int counter=0;
